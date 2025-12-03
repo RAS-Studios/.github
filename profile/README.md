@@ -1,4 +1,4 @@
-#🎮 RAS Studios — README
+# 🎮 RAS Studios — README
 
 Welcome to **RAS Studios**, a small independent game studio fueled by creativity, stubbornness, and an unhealthy amount of energy drinks.
 
@@ -8,7 +8,7 @@ Our motto?
 
 ---
 
-###🚀 Who We Are
+### 🚀 Who We Are
 
 RAS Studios is a VR-focused and gameplay-driven game studio.
 We design, prototype, break things, fix them, and then pretend it was all part of the plan.
@@ -28,7 +28,7 @@ We don’t like:
 
 ---
 
-###🕹️ Current Projects
+### 🕹️ Current Projects
 🏓 **Pong Panic VR**
 
 Our main project: a dynamic VR ping-pong-inspired game with:
@@ -42,7 +42,7 @@ Think “Wii Sports table tennis,” but reborn in VR with modern physics and ju
 
 ---
 
-###🔧 Tech & Tools
+### 🔧 Tech & Tools
 
 - Unity (we fight it daily)
 - C# (we fight it too)
@@ -51,14 +51,14 @@ Think “Wii Sports table tennis,” but reborn in VR with modern physics and ju
 
 ---
 
-###🤝 Why We Make Games
+### 🤝 Why We Make Games
 
 We love gameplay that feels fun first, with interactions that make people smile, curse, or laugh like idiots.
 If a player says, “Wait… do that again!” — that’s a win for us.
 
 ---
 
-###📬 Contact
+### 📬 Contact
 
 Interested in our work, collaborations, or just want to tell us our physics are broken?
 
@@ -69,11 +69,11 @@ contact@rasstudios.dev
 
 ---
 
-###⭐ Thank You
+### ⭐ Thank You
 
 Thanks for stopping by.
 Now go play something — preferably ours.
 
-RAS Studios
+**RAS Studios**
 - By Raphaël, Alexandre and Sonny
 Nothing to report… yet.
