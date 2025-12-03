@@ -75,5 +75,7 @@ Thanks for stopping by.
 Now go play something — preferably ours.
 
 **RAS Studios**
+
 By Raphaël, Alexandre and Sonny
+
 Nothing to report… yet.
